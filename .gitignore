@@ -1,0 +1,3 @@
+./node_modules
+.env
+# to run a program we need env
